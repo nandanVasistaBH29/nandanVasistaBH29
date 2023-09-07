@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [creater_content](https://github.com/nandanVasistaBH29/creater_content)
 
-- 🌱 I’m currently learning ** Jenkins, AWS , kubernetes**
+- 🌱 I’m currently learning **Jenkins, AWS , kubernetes**
 
 - 📝 I regularly write articles on [https://geoblog.vercel.app/](https://geoblog.vercel.app/)
 
